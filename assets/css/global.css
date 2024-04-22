@@ -29,6 +29,10 @@ a:hover {
   border-radius: 1rem;
 }
 
+.acordeon a:hover {
+  text-decoration: none;
+}
+
 .main::before, .main::after {
   content: '';
   background-image: url('../img/background.svg');

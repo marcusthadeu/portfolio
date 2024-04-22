@@ -8,7 +8,7 @@
   transition: 0.25s;
 }
 
-.acordeon.open,
+.acordeon.open:not(:last-child),
 .acordeon:hover {
   background-color: #55569E;
   border-color: #55569E;
@@ -37,7 +37,7 @@
   cursor: pointer;
 }
 
-.acordeon .trigger::after {
+.acordeon .trigger:not(:last-child)::after {
   content: '';
   display: inline-block;
   width: 1.5rem;
