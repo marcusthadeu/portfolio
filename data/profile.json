@@ -1,0 +1,91 @@
+{
+  "name": "Marcus Thadeu",
+  "photo": "https://avatars.githubusercontent.com/u/76182016?s=400&u=3774f8704431c5ea21b88c89b8aa93d133acf425&v=4",
+  "job": "Desenvolvedor Junior",
+  "location": "Contagem - MG",
+  "phone": "(31) 99481-3213",
+  "email": "marcusthadeu@outlook.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/marcusthadeu/-DIO-Forma-o-JavaScript-Developer-/main/PORTFOLIO/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/marcusthadeu/-DIO-Forma-o-JavaScript-Developer-/main/PORTFOLIO/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/marcusthadeu/-DIO-Forma-o-JavaScript-Developer-/main/PORTFOLIO/data/imgs/js.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/marcusthadeu/-DIO-Forma-o-JavaScript-Developer-/main/PORTFOLIO/data/imgs/git.png"
+      },
+      {
+        "name": "Github",
+        "logo": "https://raw.githubusercontent.com/marcusthadeu/-DIO-Forma-o-JavaScript-Developer-/main/PORTFOLIO/data/imgs/github.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/marcusthadeu/-DIO-Forma-o-JavaScript-Developer-/main/PORTFOLIO/data/imgs/react.png"
+      }
+    ],
+    "softSkills": [
+      "Liderança",
+      "Facilidade de Comunicação",
+      "Organização",
+      "Trabalho em Equipe",
+      "Flexbilidade"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (técnico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Este Portfólio preenchido dinamicamente",
+      "url": "https://github.com/marcusthadeu/-DIO-Forma-o-JavaScript-Developer-/tree/main/PORTFOLIO",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Analista de implantação | G-Tech Sistemas",
+      "period": "Jan 2023 - Jul 2023",
+      "description": "Gestão do projeto de implementação de clientes corporativos, atendimento a solicitações e problemas. Interação com áreas internas para assegurar que os processos sejam completados conforme padrões e politica do cliente e dentro dos prazos preestabelecidos. Gestão do projeto de migração, seja de forma parcial ou total. Mapeamento dos dados dos clientes e adequação conforme sistema utilizado. Prestar suporte aos usuários de forma presencial ou remoto. Orientar os usuários nos processos de negócios utilizando o sistema ERP. Identificar oportunidades e propor melhorias nos processos de negócios. Participar das atividades relacionadas ao Sistema de Gestão Interno."
+    },
+    {
+      "name": "Estudante | Trybe",
+      "period": "Set 2021 - Fev 2022",
+      "description": "Nesse curso com carga horária de mais de 300h, apliquei de forma prática conteúdos como: Unix & Bash, Git, JS Básico & DOM, HTML, CSS, JS ES6, Higher Order Functions e Testes Unitários, assim como metodologias ágeis e habilidades comportamentais."
+    },
+    {
+      "name": "Analista de Suporte Pleno | Cofermeta",
+      "period": "Nov 2018 - Nov 2019",
+      "description": "Responsável pela segurança da informação com implementação de Servidor de Antivírus Kaspesky, gerenciamento de Políticas de Segurança Windows (GPO), gerenciamento de servidores e usuários (Active Directory). Suporte ao usuário nível 3. Gerenciamento de inventario de ativos de rede (OCS). Abertura, documentação, acompanhamentos e conclusões de tickets de chamados técnicos (GLPI)."
+    },
+    {
+      "name": "Técnico de Suporte III | AeC Contact Center",
+      "period": "Mai 2018 - Nov 2018",
+      "description": "Responsável por toda infra do site, contendo 256 maquinas, suporte ao usuário, gerenciamento de servidores Active Diretor, criação e gerenciamento de usuários e e-mail office 365. Gerenciamento de tickets de atendimento e comprimento de SLA’s."
+    },
+    {
+      "name": "Analista de Suporte | Cofermeta",
+      "period": "Ago 2014 - out 2015",
+      "description": "Suporte ao usuário nível 3 (ERP, sistemas fiscais e contábeis), manutenção de maquinas, manutenção da rede e gerenciamento (Nagios). Gerenciamento de e-mail (Office 365, Zimbra), gerenciamento servidor antivírus (Eset NOD 32, Karspesky), gerenciamento de inventario de ativos de rede (OCS). Abertura, documentação, acompanhamentos e conclusões de tickets de chamados técnicos (GLPI). Configuração de CFTV (Geo Vision, DVR e techvew). Servidores CITRIX, Active Directory, Impressão (Planet Express)."
+    },
+    {
+      "name": "Analista de Suporte | SIFA Processamento de Dados",
+      "period": "Mai 2012 - Nov 2013",
+      "description": "Nesse curso com carga horária de mais de 300h, apliquei de forma prática conteúdos como: Unix & Bash, Git, JS Básico & DOM, HTML, CSS, JS ES6, Higher Order Functions e Testes Unitários, assim como metodologias ágeis e habilidades comportamentais."
+    },
+    {
+      "name": "Técnico de Informática | Bretas Supermercados",
+      "period": "Jan 2008 - Abr 2011",
+      "description": "Técnico em informática Windows (9x-NT-XP-2k3-Vista-2k8-7), hardware de computadores e componentes periféricos. Encarregado de laboratório e equipamentos de informática. Realizando cotações, compras, cadastramento. Backup e Restore de dados, através do Software HP Data Protector. Montagem de Fitas Dat: DLT, Super DLT, DDS1, DDS2, e DDS3. Redes (cabeamento e configuração) Internet (configuração de conexões Banda Larga e protocolos). Soluções de softwares Antivírus (Symantec)."
+    }
+  ]
+}
