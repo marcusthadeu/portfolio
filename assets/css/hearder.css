@@ -68,13 +68,18 @@
   background-image: url('../img/icons/location.svg');
 }
 
+.information .phone::before {
+  background-image: url('../img/icons/phone.svg');
+}
+
+.information .linkedin::before {
+  background-image: url('../img/icons/linkedin.svg');
+}
+
 .information .email::before {
   background-image: url('../img/icons/email.svg');
 }
 
-.information .phone::before {
-  background-image: url('../img/icons/phone.svg');
-}
 
 @media only screen and (min-width: 768px) {
 
